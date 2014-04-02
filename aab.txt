@@ -1,0 +1,19 @@
+row_daily_head
+False
+row_bill_date
+False
+row_customer
+False
+row_item
+False
+row_item
+False
+row_bill_end
+True
+----------
+> f:\work\document\myanmar\缅甸出差实施备忘\2014-03-20\importsalereport\excel_reader.py(75)save_bill()
+-> print('--Create Bill---')
+(Pdb) --Create Bill---
+> f:\work\document\myanmar\缅甸出差实施备忘\2014-03-20\importsalereport\excel_reader.py(76)save_bill()
+-> print('Date:'+bill['date'])
+(Pdb) 
